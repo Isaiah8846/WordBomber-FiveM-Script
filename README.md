@@ -1,1 +1,3 @@
-# WordBomber-FiveM-Script
+Welcome to the WordBomber FiveM script! In order to enable things you must turn it on by deleting the "Off" from the main "server.js" file! & replacing it with "On", On can't be spelt or said like this "on", "ON", "oN". It must be put in the quotes like this "On", nothing else!!! Same for "Off", it can only be put that way, you might get an error, if its put any other way, but in that case, you can re-download the project & try and match things! If you have any questions, please reach out to me via discord "Isaiah#8846"!
+
+In order to have the DiscordWebhook, YOU MUST turn "DiscordWebhook" "On", so you can use the feature!!!
