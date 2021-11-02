@@ -1,0 +1,1 @@
+# WordBomber-FiveM-Script
